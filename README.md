@@ -1,6 +1,6 @@
 # Numerical Solution of the 2D Poisson Problem 🧮
 
-This project was developed as part of the *Project Practicum I* (2024)**.  
+This project was developed as part of the *Project Practicum I* (2024).  
 It implements and analyzes numerical methods for solving the 2D Poisson equation using **finite difference discretization** and **LU decomposition** in Python.
 
 ---
@@ -27,7 +27,7 @@ It implements and analyzes numerical methods for solving the 2D Poisson equation
 The numerical experiments demonstrate:
 - Sparse matrix representations significantly reduce memory requirements  
 - LU decomposition provides accurate results for moderate grid sizes  
-- Second-order convergence \( O(h^2) \) verified for the finite difference method
+- Second-order convergence $O(h^2)$ verified for the finite difference method
 
 ---
 
